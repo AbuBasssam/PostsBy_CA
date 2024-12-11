@@ -1,20 +1,11 @@
-<<<<<<< HEAD
-# PostsBy_CA
-=======
-# post_ca
+PostsBy_CA
+A sample project demonstrating Clean Architecture principles for managing Posts with a simulation of CRUD (Create, Read, Update, Delete) operations through an API. The project is structured to ensure separation of concerns, scalability, and maintainability.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> master
+Features
+Implements Clean Architecture with a focus on separation of concerns.
+CRUD operations for a Post entity:
+Create a new post.
+Retrieve posts.
+Update an existing post.
+Delete a post.
+Simulation-ready setup for testing and learning.
